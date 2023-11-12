@@ -18,7 +18,8 @@ dependencies:
   flutter:
     sdk: flutter
   http: ">=0.13.1 <2.0.0"
-  permission_handler: ^11.0.1
+  permission_handler:
+    git: https://github.com/kumsumit/permission_handler.git
 
 dev_dependencies:
   flutter_lints:
